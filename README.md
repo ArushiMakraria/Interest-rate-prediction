@@ -45,5 +45,17 @@ Key findings:
 - Feature Importance: The most important features influencing the interest rate were annual_income, loan_amount_funded, and debt_to_income_ratio.
 - Data Challenges: Missing data in some columns required careful handling, but the results showed that dropping certain columns did not significantly hurt the model's performance.
 
+## Conclusion
+This project demonstrated the process of cleaning, modelling, and testing a machine learning model to predict loan interest rates. The Random Forest Regressor provided the most accurate predictions, and the results were stored in a CSV file for further analysis.
+
+## Files and Code
+
+loan_interest_rate_model.pkl: Saved model after training.
+Results_from_ArushiMakraria.csv: Final predictions on the test set.
+data_cleaning.py: Code for cleaning and preparing the data.
+modeling.py: Code for building and evaluating the models.
+
+Feel free to explore the repository for more details!
+
 
 
