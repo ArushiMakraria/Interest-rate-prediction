@@ -51,9 +51,13 @@ This project demonstrated the process of cleaning, modelling, and testing a mach
 ## Files and Code
 
 loan_interest_rate_model.pkl: Saved model after training.
+
 Results_from_ArushiMakraria.csv: Final predictions on the test set.
+
 data_cleaning.py: Code for cleaning and preparing the data.
+
 modeling.py: Code for building and evaluating the models.
+
 
 Feel free to explore the repository for more details!
 
